@@ -1,4 +1,4 @@
-# Juegos de Mesa
+# Table Games
 This program contains three exciting tabletop games:
 
 ## 🎲 Dice Game
